@@ -1,12 +1,85 @@
-# React + Vite
+# Course Finder Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web application that helps users explore and find suitable courses through a simple and user-friendly interface.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Browse available courses
+* Search for courses
+* View course details
+* Course category-based organization
+* User-friendly interface
+* Responsive web design
+* Backend API integration
+* Database storage
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Frontend
+
+* React
+* JavaScript
+* HTML
+* CSS
+
+### Backend
+
+* Python
+* Django
+
+### Database
+
+* PostgreSQL
+
+## Project Structure
+
+```text
+Course-Finder/
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+└── backend/
+    ├── manage.py
+    ├── ...
+    
+```
+
+## Main Modules
+
+* Course Search
+* Course Listing
+* Course Details
+* Course Categories
+* User Interface
+* Backend API
+* Database Management
+
+## Purpose
+
+The Course Finder Web Application was developed to provide an easy way for users to discover and explore courses based on their interests.
+
+The project demonstrates full-stack web development using React, Django, and PostgreSQL.
+
+## Skills Demonstrated
+
+* Frontend development
+* Backend development
+* REST API integration
+* Database management
+* Full-stack application development
+* User interface design
+
+## Future Enhancements
+
+* User authentication
+* Advanced course filtering
+* Course recommendations
+* Course bookmarking
+* User reviews and ratings
+* Personalized course suggestions
+
+## Author
+
+**Alan K Alexander**
